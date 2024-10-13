@@ -31,8 +31,10 @@ This project implements a Binary Search Tree (BST) in C++. The program allows fo
    
 5. (Optional) Set execute permissions for the compiled output (if needed):
    ```bash
-   chmod 777 a.out
+   chmod 777 main.cpp
    
-6. Run the compiled program:
+6. Run the compiled program. Test code with .txt files("areacode.txt", "pokemon.txt", "california.txt", "stooges.txt", "halloween calories 2.txt", "years.txt", "halloween calories.txt"):
    ```bash
    ./a.out
+
+7. Check 7 "n'th_testfile.txt" in BinarySearchTree directory.
