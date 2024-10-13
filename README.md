@@ -24,14 +24,14 @@ This project implements a Binary Search Tree (BST) in C++. The program allows fo
 3. Navigate to the project directory:
    ```bash
    cd BinarySearchTree/
-   
-4. Compile the main.cpp file using g++:
-   ```bash
-   g++ main.cpp
-   
-5. (Optional) Set execute permissions for the compiled output (if needed):
+
+4. (Optional) Set execute permissions for the compiled output (if needed):
    ```bash
    chmod 777 main.cpp
+   
+5. Compile the main.cpp file using g++:
+   ```bash
+   g++ main.cpp
    
 6. Run the compiled program. Test code with .txt files("areacode.txt", "pokemon.txt", "california.txt", "stooges.txt", "halloween calories 2.txt", "years.txt", "halloween calories.txt"):
    ```bash
