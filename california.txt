@@ -1,0 +1,8 @@
+1
+Sacramento
+2
+Los Angeles
+3
+San Diego
+0
+END

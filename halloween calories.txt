@@ -1,0 +1,8 @@
+90
+Candy Corn
+120
+M&Ms
+140
+Reese's
+0
+END

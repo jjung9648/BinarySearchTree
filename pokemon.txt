@@ -1,0 +1,8 @@
+1
+Bulbasaur
+25
+Pikachu
+150
+Mewtwo
+0
+END
