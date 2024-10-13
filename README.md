@@ -18,17 +18,21 @@ This project implements a Binary Search Tree (BST) in C++. The program allows fo
    ```bash
    cd <your-directory>
 2. Clone the repository:
-  ```bash
-  git clone https://github.com/jjung9648/BinarySearchTree
+   ```bash
+   git clone https://github.com/jjung9648/BinarySearchTree
+   
 3. Navigate to the project directory:
-  ```bash
-  cd BinarySearchTree/
+   ```bash
+   cd BinarySearchTree/
+   
 4. Compile the main.cpp file using g++:
-  ```bash
-  g++ main.cpp
+   ```bash
+   g++ main.cpp
+   
 5. (Optional) Set execute permissions for the compiled output (if needed):
-  ```bash
-  chmod 777 a.out
+   ```bash
+   chmod 777 a.out
+   
 6. Run the compiled program:
-  ```bash
-  ./a.out
+   ```bash
+   ./a.out
