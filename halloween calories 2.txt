@@ -1,8 +1,196 @@
+1500
+Giant M&Ms
 100
 Snickers
+2200
+Premium M&Ms
 150
 KitKat
+1850
+New Year M&Ms
 200
 Twix
+1300
+Strawberry Nut M&Ms
+250
+Reese's Pieces
+2050
+Winter M&Ms
+300
+Hershey's Kisses
+1700
+Easter M&Ms
+350
+Milk Duds
+2350
+Organic M&Ms
+400
+Whoppers
+1200
+Honey Nut M&Ms
+450
+Malted Milk Balls
+2100
+Limited Edition M&Ms
+500
+Chocolate Covered Raisins
+1650
+Valentine M&Ms
+550
+Peanut M&Ms
+1950
+Summer M&Ms
+600
+Almond M&Ms
+1400
+Mega M&Ms
+650
+Pretzel M&Ms
+2250
+Gourmet M&Ms
+700
+Crispy M&Ms
+1550
+Personalized M&Ms
+750
+Caramel M&Ms
+1900
+Spring M&Ms
+800
+Dark Chocolate M&Ms
+1350
+White Chocolate M&Ms
+850
+Peanut Butter M&Ms
+2000
+Fall M&Ms
+900
+Mint M&Ms
+1450
+Mini M&Ms
+950
+Birthday Cake M&Ms
+2150
+Collector M&Ms
+1000
+Fudge Brownie M&Ms
+1600
+Holiday M&Ms
+1050
+Cookies and Cream M&Ms
+1800
+Christmas M&Ms
+1100
+Coconut M&Ms
+1750
+Halloween M&Ms
+1150
+Espresso M&Ms
+2300
+Artisan M&Ms
+1200
+Honey Nut M&Ms
+2400
+Sugar Free M&Ms
+1250
+Crunchy Cookie M&Ms
+1675
+Raspberry M&Ms
+1325
+Vanilla M&Ms
+1975
+Autumn M&Ms
+1425
+Strawberry M&Ms
+2125
+Special Edition M&Ms
+1525
+Chocolate Chip M&Ms
+1875
+Holiday Special M&Ms
+1625
+Orange M&Ms
+2025
+Winter Special M&Ms
+1725
+Lemon M&Ms
+1375
+Blueberry M&Ms
+2175
+Collector Special M&Ms
+1475
+Cherry M&Ms
+1825
+New Year Special M&Ms
+1575
+Grape M&Ms
+2275
+Premium Special M&Ms
+1775
+Apple M&Ms
+1275
+Peach M&Ms
+2075
+Limited Special M&Ms
+1125
+Banana M&Ms
+1925
+Summer Special M&Ms
+1225
+Watermelon M&Ms
+2225
+Gourmet Special M&Ms
+1175
+Pineapple M&Ms
+1775
+Mango M&Ms
+2325
+Artisan Special M&Ms
+1025
+Kiwi M&Ms
+1925
+Papaya M&Ms
+2025
+Fall Special M&Ms
+1325
+Passion Fruit M&Ms
+1725
+Guava M&Ms
+2125
+Spring Special M&Ms
+1425
+Dragon Fruit M&Ms
+1825
+Lychee M&Ms
+2225
+Easter Special M&Ms
+1525
+Rambutan M&Ms
+1925
+Durian M&Ms
+2325
+Valentine Special M&Ms
+1625
+Jackfruit M&Ms
+2025
+Christmas Special M&Ms
+1725
+Starfruit M&Ms
+1125
+Pomegranate M&Ms
+2225
+Halloween Special M&Ms
+1825
+Fig M&Ms
+1225
+Date M&Ms
+2125
+Holiday Ultimate M&Ms
+1925
+Apricot M&Ms
+1325
+Plum M&Ms
+2325
+Ultimate Special M&Ms
 0
 END

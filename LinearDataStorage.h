@@ -2,13 +2,13 @@
 #include <string>
 using namespace std;
 
-class Node//linear tree will be consist with Node
+class Nodel//linear tree will be consist with Node
 {
 public:
-    Node *apRight;//right child
+    Nodel *apRight;//right child
     int aKey;//The key to find the value.
     string aValue;//The value that the node contains.
-    Node(int rKey, string rValue)//constructor
+    Nodel(int rKey, string rValue)//constructor
     {
         aKey = rKey;
         aValue = rValue;
@@ -42,7 +42,7 @@ public:
     {
         if (apRight == nullptr)//if right child of current node is null, set current node to right child
         {
-            apRight = new Node(rKey, rValue);
+            apRight = new Nodel(rKey, rValue);
         }
         else//if right child of current node is not null, set current node to right child
         {
@@ -67,12 +67,12 @@ public:
     }
 };
 
-class BinarySearchTree//simply starts recursion of the root itself
+class LinearDataStorage//simply starts recursion of the root itself
 {
 private:
-    Node *apRoot;//root node of the binary tree
+    Nodel *apRoot;//root node of the binary tree
 public:
-    BinarySearchTree() : apRoot(nullptr) {}//Constructor
+    LinearDataStorage() : apRoot(nullptr) {}//Constructor
     string About()//Returns text about you – the author of this class.
     {
         return "This program is made by Jaehee Jung in class 130";
@@ -81,7 +81,7 @@ public:
     {
         if (apRoot == nullptr)//if apRoot is null, it means added node will be the root. set apRoot to new node
         {
-            apRoot = new Node(rKey, rValue);
+            apRoot = new Nodel(rKey, rValue);
         }
         else//if root node exists, start recursion from root node
         {

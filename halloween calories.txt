@@ -1,8 +1,166 @@
+540
+Life Savers
 90
 Candy Corn
+820
+Mentos
+160
+Snickers
+680
+Warheads
+300
+Crunch Bar
+740
+Pixy Stix
 120
 M&Ms
+580
+Blow Pops
+240
+Butterfinger
+700
+Pop Rocks
 140
-Reese's
+Reese's Peanut Butter Cups
+560
+Dum Dums
+280
+100 Grand
+720
+Fun Dip
+180
+Milky Way
+620
+Now and Later
+320
+Hershey's Bar
+760
+Ring Pop
+200
+Twix
+640
+Swedish Fish
+360
+Mounds
+780
+Push Pop
+220
+Kit Kat
+660
+Sour Patch Kids
+380
+York Peppermint Patty
+800
+Airheads
+260
+Baby Ruth
+840
+Tic Tac
+400
+Charleston Chew
+880
+Gummy Bears
+340
+Almond Joy
+920
+Peeps
+420
+Tootsie Roll
+960
+Chocolate Coins
+460
+Nerds
+980
+Candy Canes
+440
+Smarties
+900
+Gummy Worms
+480
+Skittles
+860
+Altoids
+500
+Starburst
+940
+Marshmallows
+520
+Jolly Rancher
+600
+Laffy Taffy
+345
+Milky Way Dark
+675
+Sour Belts
+425
+Tootsie Pops
+755
+Lollipops
+285
+Crunch Bars
+615
+Fruit Snacks
+395
+PayDay
+735
+Pixie Stix
+155
+Kit Kat Dark
+595
+Laffy Taffy Rope
+235
+Butterfinger Crisp
+715
+Fun Dip Powder
+375
+York Dark
+795
+Push Pop Gummy
+135
+M&M Peanut
+575
+Blow Pop Minis
+315
+Hershey Dark
+695
+Pop Rocks Tropical
+255
+Baby Ruth Minis
+775
+Ring Pop Gummies
+195
+Twix Dark
+635
+Swedish Fish Red
+355
+Mounds Dark
+815
+Airheads Xtremes
+275
+100 Grand Dark
+855
+Tic Tac Orange
+415
+Charleston Chew Vanilla
+895
+Gummy Bears Sour
+335
+Almond Joy Dark
+935
+Peeps Chocolate
+455
+Tootsie Roll Midgees
+975
+Chocolate Coins Gold
+495
+Smarties Tropical
+915
+Gummy Worms Sour
+535
+Jolly Rancher Sour
+875
+Altoids Cinnamon
+555
+Life Savers Gummies
 0
 END

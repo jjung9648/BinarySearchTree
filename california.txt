@@ -1,8 +1,402 @@
-1
-Sacramento
-2
+87
+San Francisco
+23
 Los Angeles
-3
+156
 San Diego
+89
+San Jose
+45
+Fresno
+12
+Sacramento
+178
+Long Beach
+67
+Oakland
+134
+Bakersfield
+201
+Anaheim
+98
+Santa Ana
+145
+Riverside
+76
+Stockton
+189
+Irvine
+234
+Chula Vista
+123
+Fremont
+167
+San Bernardino
+89
+Modesto
+198
+Fontana
+145
+Oxnard
+234
+Moreno Valley
+123
+Huntington Beach
+167
+Glendale
+89
+Santa Clarita
+198
+Garden Grove
+145
+Oceanside
+234
+Rancho Cucamonga
+123
+Santa Rosa
+167
+Ontario
+89
+Lancaster
+198
+Elk Grove
+145
+Corona
+234
+Palmdale
+123
+Salinas
+167
+Pomona
+89
+Hayward
+198
+Escondido
+145
+Torrance
+234
+Sunnyvale
+123
+Orange
+167
+Fullerton
+89
+Pasadena
+198
+Thousand Oaks
+145
+Visalia
+234
+Simi Valley
+123
+Concord
+167
+Roseville
+89
+Rockville
+198
+Santa Clara
+145
+Vallejo
+234
+Victorville
+123
+El Monte
+167
+Berkeley
+89
+Downey
+198
+Costa Mesa
+145
+Inglewood
+234
+Carlsbad
+123
+San Buenaventura
+167
+Fairfield
+89
+West Covina
+198
+Murrieta
+145
+Richmond
+234
+Norwalk
+123
+Antioch
+167
+Temecula
+89
+Burbank
+198
+Daly City
+145
+Rialto
+234
+Santa Maria
+123
+El Cajon
+167
+San Mateo
+89
+Compton
+198
+Jurupa Valley
+145
+Vista
+234
+Mission Viejo
+123
+Vacaville
+167
+Carson
+89
+Hesperia
+198
+Santa Monica
+145
+Westminster
+234
+Redding
+123
+Santa Barbara
+167
+Chico
+89
+Newport Beach
+198
+San Leandro
+145
+San Marcos
+234
+Whittier
+123
+Hawthorne
+167
+Citrus Heights
+89
+Tracy
+198
+Alhambra
+145
+Livermore
+234
+Buena Park
+123
+Lakewood
+167
+Merced
+89
+Hemet
+198
+Chino
+145
+Menifee
+234
+Lake Forest
+123
+Napa
+167
+Redwood City
+89
+Bellflower
+198
+Indio
+145
+Tustin
+234
+Baldwin Park
+123
+Chino Hills
+167
+Alameda
+89
+Upland
+198
+San Ramon
+145
+Folsom
+234
+Pleasanton
+123
+Union City
+167
+Perris
+89
+Manteca
+198
+Lynwood
+145
+Apple Valley
+234
+Redlands
+123
+Turlock
+167
+Fremont
+89
+Milpitas
+198
+Redondo Beach
+145
+Rancho Cordova
+234
+Yorba Linda
+123
+Palo Alto
+167
+Davis
+89
+Camarillo
+198
+Walnut Creek
+145
+Pittsburg
+234
+South Gate
+123
+San Clemente
+167
+Laguna Niguel
+89
+Petaluma
+198
+Huntington Park
+145
+San Rafael
+234
+La Habra
+123
+Encinitas
+167
+Monterey Park
+89
+Tulare
+198
+Cupertino
+145
+Gardena
+234
+Santa Cruz
+123
+Gilroy
+167
+Hanford
+89
+Yuba City
+198
+La Mirada
+145
+Lodi
+234
+Madera
+123
+Monterey
+167
+Lincoln
+89
+Arcadia
+198
+Diamond Bar
+145
+Redwood City
+234
+Woodland
+123
+Pacifica
+167
+Paramount
+89
+Santa Clara
+198
+El Segundo
+145
+Glendora
+234
+Cerritos
+123
+Laguna Hills
+167
+Rancho Santa Margarita
+89
+Covina
+198
+Azusa
+145
+San Dimas
+234
+Pico Rivera
+123
+Campbell
+167
+Brentwood
+89
+Novato
+198
+West Sacramento
+145
+Rosemead
+234
+Stanton
+123
+Cypress
+167
+San Bruno
+89
+Brea
+198
+San Carlos
+145
+Temple City
+234
+Fountain Valley
+123
+Placerville
+167
+Los Altos
+89
+Danville
+198
+Delano
+145
+Colton
+234
+Duarte
+123
+Coachella
+167
+Cathedral City
+89
+Calexico
+198
+Porterville
+145
+Watsonville
+234
+Bellingham
+123
+Ceres
+167
+Burlingame
+89
+Saratoga
+198
+La Puente
+145
+Los Gatos
+234
+Hercules
+123
+San Pablo
+167
+Barstow
+89
+Adelanto
+198
+San Jacinto
+145
+Eastvale
 0
 END

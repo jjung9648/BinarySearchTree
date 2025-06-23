@@ -1,8 +1,472 @@
+1969
+Moon Landing
 1776
 Declaration of Independence
 1945
 End of World War II
+2001
+September 11 Attacks
+1492
+Columbus Discovers America
+1963
+JFK Assassination
+1989
+Berlin Wall Falls
+1941
+Pearl Harbor Attack
+1865
+Civil War Ends
+1607
+Jamestown Founded
+2020
+COVID-19 Pandemic
+1620
+Mayflower Arrives
+1773
+Boston Tea Party
+1775
+Revolutionary War Begins
+1787
+Constitution Written
+1803
+Louisiana Purchase
+1812
+War of 1812
+1849
+California Gold Rush
+1861
+Civil War Begins
+1869
+Transcontinental Railroad
+1876
+Battle of Little Bighorn
+1898
+Spanish American War
+1906
+San Francisco Earthquake
+1914
+World War I Begins
+1918
+World War I Ends
+1929
+Stock Market Crash
+1950
+Korean War Begins
+1964
+Civil Rights Act
+1975
+Vietnam War Ends
+1991
+Cold War Ends
+2008
+Financial Crisis
+2023
+AI Revolution
+1955
+Rosa Parks Bus Boycott
+1963
+March on Washington
 1969
-Moon Landing
+Woodstock Festival
+1973
+Watergate Scandal
+1981
+MTV Launches
+1989
+Internet Created
+1995
+Windows 95 Released
+2004
+Facebook Founded
+2007
+iPhone Released
+2010
+iPad Released
+1066
+Battle of Hastings
+1215
+Magna Carta Signed
+1347
+Black Death Begins
+1453
+Fall of Constantinople
+1517
+Protestant Reformation
+1588
+Spanish Armada Defeated
+1649
+English Civil War Ends
+1666
+Great Fire of London
+1688
+Glorious Revolution
+1707
+Act of Union
+1789
+French Revolution Begins
+1815
+Battle of Waterloo
+1825
+First Railway Opens
+1837
+Victorian Era Begins
+1845
+Irish Potato Famine
+1848
+California Gold Rush
+1863
+Emancipation Proclamation
+1886
+Statue of Liberty Dedicated
+1903
+Wright Brothers Flight
+1912
+Titanic Sinks
+1917
+Russian Revolution
+1920
+Women Get Vote
+1933
+Hitler Rises to Power
+1939
+World War II Begins
+1947
+India Independence
+1948
+Israel Founded
+1949
+NATO Formed
+1953
+DNA Structure Discovered
+1957
+Sputnik Launched
+1961
+Berlin Wall Built
+1979
+Iran Hostage Crisis
+1986
+Chernobyl Disaster
+1991
+World Wide Web
+1997
+Princess Diana Dies
+1999
+Y2K Fears
+2003
+Iraq War Begins
+2005
+YouTube Founded
+2011
+Osama bin Laden Killed
+2012
+Mayan Calendar Ends
+2013
+Edward Snowden Leaks
+2014
+Ebola Outbreak
+2015
+Paris Climate Agreement
+2016
+Brexit Vote
+2017
+Trump Inaugurated
+2018
+Cambridge Analytica
+2019
+Notre Dame Fire
+2021
+Capitol Riots
+2022
+Russia Invades Ukraine
+1455
+Gutenberg Bible Printed
+1519
+Magellan Circumnavigates
+1543
+Copernicus Publishes
+1564
+Shakespeare Born
+1605
+Gunpowder Plot
+1618
+Thirty Years War
+1642
+English Civil War
+1665
+Great Plague London
+1687
+Newton Principia
+1692
+Salem Witch Trials
+1704
+Battle of Blenheim
+1715
+Jacobite Rising
+1745
+Jacobite Rising
+1759
+Battle of Plains Abraham
+1770
+Boston Massacre
+1781
+Articles of Confederation
+1791
+Bill of Rights
+1804
+Lewis Clark Expedition
+1807
+Slave Trade Abolished
+1814
+War of 1812 Ends
+1821
+Mexican Independence
+1823
+Monroe Doctrine
+1830
+Indian Removal Act
+1836
+Texas Independence
+1844
+Telegraph Invented
+1846
+Mexican American War
+1854
+Kansas Nebraska Act
+1857
+Dred Scott Decision
+1859
+John Brown Raid
+1860
+Lincoln Elected
+1862
+Homestead Act
+1864
+Sherman March
+1866
+Reconstruction Begins
+1867
+Alaska Purchase
+1868
+14th Amendment
+1870
+15th Amendment
+1871
+Great Chicago Fire
+1873
+Economic Panic
+1877
+Reconstruction Ends
+1879
+Edison Light Bulb
+1881
+Garfield Assassinated
+1883
+Brooklyn Bridge Opens
+1886
+Haymarket Riot
+1889
+Oklahoma Land Rush
+1890
+Wounded Knee Massacre
+1892
+Ellis Island Opens
+1893
+World Columbian Expo
+1896
+Plessy Ferguson
+1898
+USS Maine Explodes
+1901
+McKinley Assassinated
+1903
+Panama Canal Begins
+1906
+Pure Food Drug Act
+1908
+Model T Ford
+1909
+NAACP Founded
+1912
+New Mexico Statehood
+1913
+Federal Reserve Created
+1915
+Lusitania Sunk
+1917
+US Enters WWI
+1919
+Treaty of Versailles
+1921
+Immigration Quotas
+1924
+Indian Citizenship Act
+1925
+Scopes Monkey Trial
+1927
+Lindbergh Flies Atlantic
+1928
+Penicillin Discovered
+1930
+Smoot Hawley Tariff
+1932
+FDR Elected
+1933
+New Deal Begins
+1935
+Social Security Act
+1936
+Jesse Owens Olympics
+1937
+Hindenburg Disaster
+1938
+War of Worlds Broadcast
+1940
+Battle of Britain
+1942
+Japanese Internment
+1943
+Pentagon Completed
+1944
+D Day Normandy
+1945
+Atomic Bomb Dropped
+1946
+Baby Boom Begins
+1947
+Marshall Plan
+1948
+Berlin Airlift
+1949
+China Communist
+1951
+Rosenberg Trial
+1952
+Hydrogen Bomb
+1954
+Brown Board Education
+1955
+Montgomery Bus Boycott
+1956
+Interstate Highway Act
+1958
+NASA Created
+1960
+Kennedy Nixon Debates
+1962
+Cuban Missile Crisis
+1965
+Voting Rights Act
+1966
+Miranda Rights
+1967
+Summer of Love
+1968
+MLK Assassinated
+1970
+Kent State Shootings
+1971
+Pentagon Papers
+1972
+Watergate Break In
+1973
+Roe Wade
+1974
+Nixon Resigns
+1976
+Bicentennial Celebration
+1977
+Star Wars Released
+1978
+Camp David Accords
+1979
+Three Mile Island
+1980
+Reagan Elected
+1981
+AIDS First Reported
+1982
+Falklands War
+1983
+Grenada Invasion
+1984
+Indira Gandhi Assassinated
+1985
+Gorbachev Power
+1986
+Challenger Disaster
+1987
+Black Monday Crash
+1988
+Pan Am 103
+1989
+Exxon Valdez Spill
+1990
+German Reunification
+1991
+Gulf War
+1992
+Los Angeles Riots
+1993
+World Trade Center Bombing
+1994
+Nelson Mandela President
+1995
+Oklahoma City Bombing
+1996
+Mad Cow Disease
+1997
+Hong Kong Handover
+1998
+Clinton Impeachment
+1999
+Columbine Shooting
+2000
+Bush Gore Election
+2001
+Anthrax Attacks
+2002
+Department Homeland Security
+2003
+Space Shuttle Columbia
+2004
+Indian Ocean Tsunami
+2005
+Hurricane Katrina
+2006
+Saddam Hussein Executed
+2007
+Virginia Tech Shooting
+2008
+Obama Elected
+2009
+Swine Flu Pandemic
+2010
+Haiti Earthquake
+2011
+Arab Spring
+2012
+Sandy Hook Shooting
+2013
+Boston Marathon Bombing
+2014
+Malaysia Airlines Disappears
+2015
+Charlie Hebdo Attack
+2016
+Orlando Nightclub Shooting
+2017
+Las Vegas Shooting
+2018
+Parkland School Shooting
+2019
+Amazon Fires
+2020
+George Floyd Protests
+2021
+Afghanistan Withdrawal
+2022
+Queen Elizabeth Dies
+2023
+ChatGPT Released
 0000
 END
