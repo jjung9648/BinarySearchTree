@@ -10,6 +10,9 @@ int main()//Test two classes in BinarySearchTree.h
     string s;//get value from the file
     string files[7] = {"areacode.txt", "pokemon.txt", "california.txt", "stooges.txt", "halloween calories 2.txt", "years.txt", "halloween calories.txt" };
 
+    // only for test.
+    int testArr[7] = {510, 1, 10, 3, 200, 1945, 120};
+
     for(int i = 0; i < 7; i++)//make results of all 7 files in files array with for loop
     {
         BinarySearchTree b;
@@ -19,8 +22,10 @@ int main()//Test two classes in BinarySearchTree.h
         output << b.ToSortedList() << endl << endl << endl;//testing the case tree is empty. No sorted tree will be made
         cout << "what do you want to find at " + files[i] + "?(Result must empty): ";//testing the case tree is empty, nothing will be found
         output << "what do you want to find at " + files[i] + "?(Result must empty): ";//printing the result at both terminal and output file
-        int number;
-        cin >> number;
+        // int number;
+        // cin >> number;
+        // for test
+        int number = testArr[i];
         output << number << endl;
         string found = b.Find(number);//test Find() method. Get the result at found string(no result)
         cout << found << endl;
@@ -49,7 +54,7 @@ int main()//Test two classes in BinarySearchTree.h
         output << b.ToSortedList() << endl << endl << endl;//test ToSortedList() method and write result at the output file
         cout << "what do you want to find at " + files[i] + "?(type key): ";
         output << "what do you want to find at " + files[i] + "?(type key): ";
-        cin >> number;
+        // cin >> number;
         output << number << endl;
         found = b.Find(number);//test Find() method and write result at the output file and terminal
         cout << found << endl;
